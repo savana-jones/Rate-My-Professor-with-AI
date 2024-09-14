@@ -1,0 +1,104 @@
+{
+  "professor": [
+    {
+      "name": "Dr. Alice Smith",
+      "specialization": "Machine Learning",
+      "review": "Dr. Smith is highly knowledgeable in machine learning and AI. Her courses are challenging but rewarding."
+    },
+    {
+      "name": "Dr. Alex Grey",
+      "specialization": "Algorithms",
+      "review": "Great at explaining complex algorithms in simple terms. Provides excellent feedback on assignments."
+    },
+    {
+      "name": "Dr. Karen Thompson",
+      "specialization": "Data Structures",
+      "review": "Her data structures course is well-organized. She’s always willing to help students outside class."
+    },
+    {
+      "name": "Dr. Michael Johnson",
+      "specialization": "Operating Systems",
+      "review": "Teaches operating systems with great depth. Lectures are very engaging and interactive."
+    },
+    {
+      "name": "Dr. Emily Davis",
+      "specialization": "Deep Learning",
+      "review": "Her deep learning class is a must-take! Very approachable and thorough in her teaching."
+    },
+    {
+      "name": "Dr. Robert Brown",
+      "specialization": "Software Engineering",
+      "review": "Explains software engineering concepts clearly. The group projects are well-structured and useful."
+    },
+    {
+      "name": "Dr. Sarah Wilson",
+      "specialization": "Computer Networks",
+      "review": "Excellent professor for computer networks. Classes are difficult but very insightful."
+    },
+    {
+      "name": "Dr. Daniel Martinez",
+      "specialization": "Programming",
+      "review": "Great for beginners in programming. Makes sure everyone in class is keeping up with the material."
+    },
+    {
+      "name": "Dr. Laura Hernandez",
+      "specialization": "Cybersecurity",
+      "review": "Her cybersecurity class is top-notch. She brings real-world examples to the classroom."
+    },
+    {
+      "name": "Dr. James Lee",
+      "specialization": "Artificial Intelligence",
+      "review": "Very passionate about artificial intelligence. His projects really prepare you for the industry."
+    },
+    {
+      "name": "Dr. Patricia King",
+      "specialization": "Database Systems",
+      "review": "Her database systems class is very detailed. Encourages students to think critically."
+    },
+    {
+      "name": "Dr. David White",
+      "specialization": "Software Development",
+      "review": "Very supportive and encouraging for students in software development."
+    },
+    {
+      "name": "Dr. Linda Scott",
+      "specialization": "Theoretical Computer Science",
+      "review": "Great professor for theoretical computer science. Makes difficult concepts easier to understand."
+    },
+    {
+      "name": "Dr. Kevin Taylor",
+      "specialization": "Computer Vision",
+      "review": "His computer vision course is comprehensive and fascinating. His lectures are clear and concise."
+    },
+    {
+      "name": "Dr. Angela Lewis",
+      "specialization": "Web Development",
+      "review": "Teaches web development with practical, hands-on projects. A very helpful and approachable teacher."
+    },
+    {
+      "name": "Dr. Charles Walker",
+      "specialization": "AI Ethics",
+      "review": "His AI ethics course is very engaging. He encourages meaningful discussions on technology's impact."
+    },
+    {
+      "name": "Dr. Jessica Allen",
+      "specialization": "Computational Theory",
+      "review": "Her computational theory classes are difficult but her teaching style makes them manageable."
+    },
+    {
+      "name": "Dr. Mark Robinson",
+      "specialization": "Distributed Systems",
+      "review": "Teaches distributed systems in a practical way. Very organized and clear in his explanations."
+    },
+    {
+      "name": "Dr. Susan Young",
+      "specialization": "Cloud Computing",
+      "review": "Her cloud computing course is up-to-date with the latest industry trends. Very hands-on approach."
+    },
+    {
+      "name": "Dr. Andrew Harris",
+      "specialization": "Introduction to Programming",
+      "review": "Excellent teacher for introduction to programming. His classes are engaging and easy to follow."
+    }
+  ]
+}

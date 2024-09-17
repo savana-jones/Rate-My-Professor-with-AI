@@ -18,7 +18,7 @@ CORS(app)
 
 load_dotenv()
 
-cred = credentials.Certificate("C:/Users/DELL/Desktop/Savana/Projects/rate-my-prof/src/app/data/rate-my-professor.json")  # Replace with your Firestore service account key
+cred = credentials.Certificate("src/app/data/rate-my-professor.json")  # Replace with your Firestore service account key
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 url=os.getenv("WEAVIATE_URL")
@@ -33,7 +33,7 @@ def get_professors_data():
     docs = professors_ref.stream()
     data = []
     for doc in docs:
-        data.append(doc.to_dict())  # Each document is added to the list
+        data.append(doc.to_dict()) 
     return data
 
 data = get_professors_data()
